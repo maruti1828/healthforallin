@@ -47,3 +47,14 @@ This is a web based application developed to provide updates regarding health
 - CSS
 - Bootstrap
 - JavaScript
+
+## Details
+In this i have used azure services and this project is completely about to educate people and to help them get good health 
+we mainly buid this website due to after impact of corona everything changed and its online so main motive is to provide
+good health for all so we kept name as "healthforall"
+
+## Azure services
+-Static web apps
+-web apps
+
+## Thankyou 
